@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a9d1ff,100:479eff&height=120&section=header&text=Hi!👋%20I'm%20Skyla&fontSize=25&fontColor=d2e6fd&fontAlignY=20&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a9d1ff,100:479eff&height=150&section=header&text=Hi!👋%20I'm%20Skyla&fontSize=30&fontColor=d2e6fd&fontAlignY=30&animation=twinkling"/>
 
 ### 🌱 skills
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="75" height="30"/>
