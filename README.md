@@ -3,7 +3,7 @@
 
 ## *🌱 skills*
 #####
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="50" height="30"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" width="90" height="30"/> <img src= "https://img.shields.io/badge/Spring%20Data%20Jpa-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Spring Security-6DB33F.svg?style=for-the-badge&logo=SpringSecurity&logoColor=white" height="30"> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="50" height="30"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" width="95" height="30"/> <img src= "https://img.shields.io/badge/Spring%20Data%20Jpa-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Spring Security-6DB33F.svg?style=for-the-badge&logo=SpringSecurity&logoColor=white" height="30"> 
 #####
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="75" height="30"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" width="75" height="30"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" width="110" height="30"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="80" height="30"/> <img src="https://img.shields.io/badge/reactnative-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30">
 #####
